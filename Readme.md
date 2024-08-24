@@ -135,8 +135,8 @@ sudo ./ch.sh <u/g> <option>
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/system-management-scripts.git
-   cd system-management-scripts
+   git clone https://github.com/suraj00415/System_Level_Script.git
+   cd System_Level_Script
    ```
 
 2. Make the scripts executable:
